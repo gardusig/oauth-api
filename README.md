@@ -1,2 +1,3 @@
-# oauth-api
-oauth api
+# Authenticator
+
+API for authentication
